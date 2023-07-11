@@ -13,7 +13,7 @@ repo_url: https://github.com/sunnivin/mkdocs-github-template
 
 
 theme:
-  name: mkdocs
+  name: material
   #custom_dir: overrides
   features:
     - search.suggest    # display the likeliest completion for the last word
