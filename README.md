@@ -1,6 +1,6 @@
 # Template for static webpage with Mkdocs and Docker
 
-This repository contains a template for [mkdocs](https://squidfunk.github.io/mkdocs-material/).
+This repository contains a template for [mkdocs](https://squidfunk.github.io/mkdocs-material/). 
 
 ## Symbols used in this documentation 
 
