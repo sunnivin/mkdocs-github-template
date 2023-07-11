@@ -6,7 +6,7 @@ extra_css:
 extra_javascript:
   - javascripts/map.js
 theme:
-  name: readthedocs
+  name: material
   features:
     - search.suggest    # display the likeliest completion for the last word
     - search.highlight  # highlight all occurrences
