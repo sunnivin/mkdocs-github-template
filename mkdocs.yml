@@ -1,5 +1,10 @@
-site_name: NorESM Land Sites Platform technical documentation
-site_url: https://sunnivin.github.io/noresm-land-sites-platform/
+# Project information
+site_name: Template material for MkDocs
+site_url: https://sunnivin.github.io/mkdocs-github-template/
+site_author: Sunniva Indrehus
+site_description: >-
+  Write your documentation in Markdown and create a professional static site in
+  minutes – searchable, customizable, in 60+ languages, for all devices
 
 
 # Repository
