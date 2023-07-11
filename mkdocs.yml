@@ -1,8 +1,15 @@
 site_name: NorESM Land Sites Platform technical documentation
 site_url: https://sunnivin.github.io/noresm-land-sites-platform/
-use_directory_urls : true
+
+
+# Repository
+repo_name: sunnivin/mkdocs-github-template
+repo_url: https://github.com/sunnivin/mkdocs-github-template
+
+
 theme:
   name: material
+  custom_dir: overrides
   features:
     - search.suggest    # display the likeliest completion for the last word
     - search.highlight  # highlight all occurrences
@@ -12,6 +19,7 @@ theme:
     - content.code.copy
     - content.code.annotate
     - announce.dismiss
+    - header.autohide
 extra_css:
   - stylesheets/extra.css
 plugins:

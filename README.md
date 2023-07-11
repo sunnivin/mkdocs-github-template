@@ -4,7 +4,7 @@ This repository contains a template for [mkdocs](https://squidfunk.github.io/mkd
 
 ## Symbols used in this documentation 
 
--Variables written in capital letters enclosed with <> are variables given by the user.
+-Variables written in capital letters enclosed with `<>` are variables.
 
 ## Local development
 
