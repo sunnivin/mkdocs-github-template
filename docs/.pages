@@ -1,4 +1,5 @@
 nav:
   - Main page: index.md
+  - spack and compss: spack-compss
   - User guide: user-guide
   - Episode name: episode
