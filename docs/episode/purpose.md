@@ -11,7 +11,7 @@ Describe the lecture in high level language
 
 ## Practicalities 
 
-**Target group**: You would like to be involved (or start your own project) in coming and ongoing research projects and product development that involves machine learning in NGI
+**Target group**: You would like to be involved (or start your own project) in coming and ongoing research projects and product development that involves machine learning
 
 **Method**: Classroom (with teams) lecture, live coding - presenter and participators, technical exercises
 
@@ -39,7 +39,7 @@ After this course you will know:
 
 ## Credit
 
-This episode was developed by NGI Code Academy. 
+This episode was developed by
 
 - Creator(s): fill in name(s)
 - Contributor(s): fill in name(s) 
