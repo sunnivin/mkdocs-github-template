@@ -12,7 +12,7 @@ repo_name: sunnivin/mkdocs-github-template
 repo_url: https://github.com/sunnivin/mkdocs-github-template
 theme:
   name: material
-  custom_dir: docs/overrides
+  custom_dir: overrides
   features:
     - search.suggest    # display the likeliest completion for the last word
     - search.highlight  # highlight all occurrences
