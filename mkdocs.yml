@@ -3,7 +3,7 @@ site_name: Template material for MkDocs
 site_url: https://sunnivin.github.io/mkdocs-github-template/
 site_author: Sunniva Indrehus
 site_description: >-
-  Write your documentation in Markdown and create a professional static site in
+  Example of how to create a professional static site in
   minutes – searchable, customizable, in 60+ languages, for all devices
 
 
@@ -11,6 +11,8 @@ site_description: >-
 repo_name: sunnivin/mkdocs-github-template
 repo_url: https://github.com/sunnivin/mkdocs-github-template
 theme:
+  logo: images/logo_example.png
+  favicon: images/logo_example.png
   name: material
   custom_dir: overrides
   features:
@@ -42,4 +44,3 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji 
       emoji_generator: !!python/name:materialx.emoji.to_svg
-copyright: Copyright &copy; 2022- The NorESM Land Sites Platform Team
